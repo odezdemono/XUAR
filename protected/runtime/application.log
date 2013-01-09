@@ -1,0 +1,142 @@
+2013/01/07 15:06:46 [error] [php] include(CJuiDateTimePicker.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (C:\xampp\htdocs\yii-1.1.13\framework\YiiBase.php:421)
+Stack trace:
+#0 C:\xampp\htdocs\yii-1.1.13\framework\web\CWidgetFactory.php(146): import()
+#1 C:\xampp\htdocs\yii-1.1.13\framework\web\CBaseController.php(146): CWidgetFactory->createWidget()
+#2 C:\xampp\htdocs\yii-1.1.13\framework\web\CBaseController.php(166): PersonController->createWidget()
+#3 C:\xampp\htdocs\xuar\protected\views\person\_form.php(60): PersonController->widget()
+#4 C:\xampp\htdocs\yii-1.1.13\framework\web\CBaseController.php(126): require()
+#5 C:\xampp\htdocs\yii-1.1.13\framework\web\CBaseController.php(95): PersonController->renderInternal()
+#6 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(869): PersonController->renderFile()
+#7 C:\xampp\htdocs\xuar\protected\views\person\update.php(21): PersonController->renderPartial()
+#8 C:\xampp\htdocs\yii-1.1.13\framework\web\CBaseController.php(126): require()
+#9 C:\xampp\htdocs\yii-1.1.13\framework\web\CBaseController.php(95): PersonController->renderInternal()
+#10 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(869): PersonController->renderFile()
+#11 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(782): PersonController->renderPartial()
+#12 C:\xampp\htdocs\xuar\protected\controllers\PersonController.php(103): PersonController->render()
+#13 unknown(0): PersonController->actionUpdate()
+#14 C:\xampp\htdocs\yii-1.1.13\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#15 C:\xampp\htdocs\yii-1.1.13\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#16 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(308): CInlineAction->runWithParams()
+#17 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CFilterChain.php(133): PersonController->runAction()
+#18 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#19 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#20 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CInlineFilter.php(58): PersonController->filterAccessControl()
+#21 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#22 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(291): CFilterChain->run()
+#23 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(265): PersonController->runActionWithFilters()
+#24 C:\xampp\htdocs\yii-1.1.13\framework\web\CWebApplication.php(282): PersonController->run()
+#25 C:\xampp\htdocs\yii-1.1.13\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#26 C:\xampp\htdocs\yii-1.1.13\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#27 C:\xampp\htdocs\xuar\index.php(13): CWebApplication->run()
+REQUEST_URI=/xuar/index.php/person/update/3
+in C:\xampp\htdocs\xuar\protected\views\person\_form.php (60)
+in C:\xampp\htdocs\xuar\protected\views\person\update.php (21)
+in C:\xampp\htdocs\xuar\protected\controllers\PersonController.php (103)
+2013/01/08 20:10:41 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Ronron--Syahronny-1-2013-01-26-Kalikoa' for key 'person_XP_uq'. The SQL statement executed was: INSERT INTO `person` (`FirstName`, `MiddleName`, `LastName`, `Sex`, `BirthDate`, `BirthPlace`, `RevisedRow_id`, `TippedStatus`, `DeletedStatus`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8).
+in C:\xampp\htdocs\xuar\protected\controllers\PersonController.php (109)
+in C:\xampp\htdocs\xuar\index.php (13)
+2013/01/08 20:10:41 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Ronron--Syahronny-1-2013-01-26-Kalikoa' for key 'person_XP_uq'. The SQL statement executed was: INSERT INTO `person` (`FirstName`, `MiddleName`, `LastName`, `Sex`, `BirthDate`, `BirthPlace`, `RevisedRow_id`, `TippedStatus`, `DeletedStatus`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8)' in C:\xampp\htdocs\yii-1.1.13\framework\db\CDbCommand.php:357
+Stack trace:
+#0 C:\xampp\htdocs\yii-1.1.13\framework\db\ar\CActiveRecord.php(1023): CDbCommand->execute()
+#1 C:\xampp\htdocs\yii-1.1.13\framework\db\ar\CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 C:\xampp\htdocs\xuar\protected\controllers\PersonController.php(109): CActiveRecord->save()
+#3 [internal function]: PersonController->actionUpdate('6')
+#4 C:\xampp\htdocs\yii-1.1.13\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(PersonController), Array)
+#5 C:\xampp\htdocs\yii-1.1.13\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(PersonController), Object(ReflectionMethod), Array)
+#6 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#8 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#11 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#12 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 C:\xampp\htdocs\yii-1.1.13\framework\web\CWebApplication.php(282): CController->run('update')
+#15 C:\xampp\htdocs\yii-1.1.13\framework\web\CWebApplication.php(141): CWebApplication->runController('person/update')
+#16 C:\xampp\htdocs\yii-1.1.13\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\xuar\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/xuar/index.php/person/update/6
+HTTP_REFERER=http://localhost/xuar/index.php/person/update/6
+---
+2013/01/08 20:17:49 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Ronron--Syahronny-1-2013-01-26-Kalikoa' for key 'person_XP_uq'. The SQL statement executed was: INSERT INTO `person` (`FirstName`, `MiddleName`, `LastName`, `Sex`, `BirthDate`, `BirthPlace`, `RevisedRow_id`, `TippedStatus`, `DeletedStatus`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8).
+in C:\xampp\htdocs\xuar\protected\controllers\PersonController.php (109)
+in C:\xampp\htdocs\xuar\index.php (13)
+2013/01/08 20:17:49 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Ronron--Syahronny-1-2013-01-26-Kalikoa' for key 'person_XP_uq'. The SQL statement executed was: INSERT INTO `person` (`FirstName`, `MiddleName`, `LastName`, `Sex`, `BirthDate`, `BirthPlace`, `RevisedRow_id`, `TippedStatus`, `DeletedStatus`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8)' in C:\xampp\htdocs\yii-1.1.13\framework\db\CDbCommand.php:357
+Stack trace:
+#0 C:\xampp\htdocs\yii-1.1.13\framework\db\ar\CActiveRecord.php(1023): CDbCommand->execute()
+#1 C:\xampp\htdocs\yii-1.1.13\framework\db\ar\CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 C:\xampp\htdocs\xuar\protected\controllers\PersonController.php(109): CActiveRecord->save()
+#3 [internal function]: PersonController->actionUpdate('6')
+#4 C:\xampp\htdocs\yii-1.1.13\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(PersonController), Array)
+#5 C:\xampp\htdocs\yii-1.1.13\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(PersonController), Object(ReflectionMethod), Array)
+#6 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#8 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#11 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#12 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 C:\xampp\htdocs\yii-1.1.13\framework\web\CWebApplication.php(282): CController->run('update')
+#15 C:\xampp\htdocs\yii-1.1.13\framework\web\CWebApplication.php(141): CWebApplication->runController('person/update')
+#16 C:\xampp\htdocs\yii-1.1.13\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\xuar\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/xuar/index.php/person/update/6
+HTTP_REFERER=http://localhost/xuar/index.php/person/update/6
+---
+2013/01/08 20:18:13 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Ronron--Syahronny-1-2013-01-26-Kalikoa' for key 'person_XP_uq'. The SQL statement executed was: INSERT INTO `person` (`FirstName`, `MiddleName`, `LastName`, `Sex`, `BirthDate`, `BirthPlace`, `RevisedRow_id`, `TippedStatus`, `DeletedStatus`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8).
+in C:\xampp\htdocs\xuar\protected\controllers\PersonController.php (109)
+in C:\xampp\htdocs\xuar\index.php (13)
+2013/01/08 20:18:13 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Ronron--Syahronny-1-2013-01-26-Kalikoa' for key 'person_XP_uq'. The SQL statement executed was: INSERT INTO `person` (`FirstName`, `MiddleName`, `LastName`, `Sex`, `BirthDate`, `BirthPlace`, `RevisedRow_id`, `TippedStatus`, `DeletedStatus`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8)' in C:\xampp\htdocs\yii-1.1.13\framework\db\CDbCommand.php:357
+Stack trace:
+#0 C:\xampp\htdocs\yii-1.1.13\framework\db\ar\CActiveRecord.php(1023): CDbCommand->execute()
+#1 C:\xampp\htdocs\yii-1.1.13\framework\db\ar\CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 C:\xampp\htdocs\xuar\protected\controllers\PersonController.php(109): CActiveRecord->save()
+#3 [internal function]: PersonController->actionUpdate('6')
+#4 C:\xampp\htdocs\yii-1.1.13\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(PersonController), Array)
+#5 C:\xampp\htdocs\yii-1.1.13\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(PersonController), Object(ReflectionMethod), Array)
+#6 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#8 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#11 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#12 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 C:\xampp\htdocs\yii-1.1.13\framework\web\CWebApplication.php(282): CController->run('update')
+#15 C:\xampp\htdocs\yii-1.1.13\framework\web\CWebApplication.php(141): CWebApplication->runController('person/update')
+#16 C:\xampp\htdocs\yii-1.1.13\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\xuar\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/xuar/index.php/person/update/6
+HTTP_REFERER=http://localhost/xuar/index.php/person/update/6
+---
+2013/01/09 09:58:37 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Ronron--Syahronny-1-2013-01-26-Kalikoa' for key 'person_XP_uq'. The SQL statement executed was: INSERT INTO `person` (`FirstName`, `MiddleName`, `LastName`, `Sex`, `BirthDate`, `BirthPlace`, `RevisedRow_id`, `TippedStatus`, `DeletedStatus`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8).
+in C:\xampp\htdocs\xuar\protected\controllers\PersonController.php (109)
+in C:\xampp\htdocs\xuar\index.php (13)
+2013/01/09 09:58:37 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Ronron--Syahronny-1-2013-01-26-Kalikoa' for key 'person_XP_uq'. The SQL statement executed was: INSERT INTO `person` (`FirstName`, `MiddleName`, `LastName`, `Sex`, `BirthDate`, `BirthPlace`, `RevisedRow_id`, `TippedStatus`, `DeletedStatus`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8)' in C:\xampp\htdocs\yii-1.1.13\framework\db\CDbCommand.php:357
+Stack trace:
+#0 C:\xampp\htdocs\yii-1.1.13\framework\db\ar\CActiveRecord.php(1023): CDbCommand->execute()
+#1 C:\xampp\htdocs\yii-1.1.13\framework\db\ar\CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 C:\xampp\htdocs\xuar\protected\controllers\PersonController.php(109): CActiveRecord->save()
+#3 [internal function]: PersonController->actionUpdate('6')
+#4 C:\xampp\htdocs\yii-1.1.13\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(PersonController), Array)
+#5 C:\xampp\htdocs\yii-1.1.13\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(PersonController), Object(ReflectionMethod), Array)
+#6 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#7 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#8 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#11 C:\xampp\htdocs\yii-1.1.13\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#12 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\yii-1.1.13\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 C:\xampp\htdocs\yii-1.1.13\framework\web\CWebApplication.php(282): CController->run('update')
+#15 C:\xampp\htdocs\yii-1.1.13\framework\web\CWebApplication.php(141): CWebApplication->runController('person/update')
+#16 C:\xampp\htdocs\yii-1.1.13\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\xuar\index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/xuar/index.php/person/update/6
+HTTP_REFERER=http://localhost/xuar/index.php/person/update/6
+---

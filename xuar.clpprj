@@ -1,0 +1,2046 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\xuar\xuar.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/xuar/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/xuar/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><dplmenupath>
+	</dplmenupath><smartyassings>
+	</smartyassings><codestructure>
+		<csfile name="C:\xampp\htdocs\xuar\xuar.clpprj" crc="823699705">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\themes\classic\views\.htaccess" crc="-79980978">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\views\site\pages\about.php" crc="-1242622607">
+			<phptree>
+				<treenode node="this;Php:Var Name;0;3;5;3;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\views\site\login.php" crc="767707238">
+			<phptree>
+				<treenode node="form;Php:Var Name;6;16;11;16;34;CActiveForm;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="model;Php:Var Name;28;27;34;27;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="this;Php:Var Name;0;5;5;5;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\views\site\index.php" crc="-944023410">
+			<phptree>
+				<treenode node="this;Php:Var Name;0;3;5;3;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\views\site\error.php" crc="-776790812">
+			<phptree>
+				<treenode node="code;Php:Var Name;21;10;26;10;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="message;Php:Var Name;25;13;33;13;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="this;Php:Var Name;0;4;5;4;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\views\site\contact.php" crc="-1027414448">
+			<phptree>
+				<treenode node="form;Php:Var Name;6;27;11;27;34;CActiveForm;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="model;Php:Var Name;32;37;38;37;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="this;Php:Var Name;0;5;5;5;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\views\person\view.php" crc="1511409073">
+			<phptree>
+				<treenode node="model;Php:Var Name;1;6;7;6;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="this;Php:Var Name;0;4;5;4;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\views\person\update.php" crc="593550847">
+			<phptree>
+				<treenode node="model;Php:Var Name;1;6;7;6;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="this;Php:Var Name;0;4;5;4;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\views\person\index.php" crc="1178817433">
+			<phptree>
+				<treenode node="dataProvider;Php:Var Name;17;17;30;17;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="this;Php:Var Name;0;4;5;4;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\views\person\create.php" crc="-1220159736">
+			<phptree>
+				<treenode node="model;Php:Var Name;56;17;62;17;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="this;Php:Var Name;0;4;5;4;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\views\person\admin.php" crc="1661094804">
+			<phptree>
+				<treenode node="model;Php:Var Name;10;38;16;38;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="this;Php:Var Name;0;4;5;4;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\views\person\_view.php" crc="752384400">
+			<phptree>
+				<treenode node="data;Php:Var Name;29;7;34;7;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\views\person\_search.php" crc="-747547563">
+			<phptree>
+				<treenode node="form;Php:Var Name;6;8;11;8;34;CActiveForm;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="model;Php:Var Name;26;14;32;14;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="this;Php:Var Name;12;8;17;8;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\views\person\_form.php" crc="-1486304332">
+			<phptree>
+				<treenode node="form;Php:Var Name;6;8;11;8;34;CActiveForm;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="model;Php:Var Name;32;15;38;15;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="this;Php:Var Name;12;8;17;8;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\views\layouts\main.php" crc="679323696">
+			<phptree>
+				<treenode node="content;Php:Var Name;12;45;20;45;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="this;Php:Var Name;33;17;38;17;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\views\layouts\column2.php" crc="-1541977094">
+			<phptree>
+				<treenode node="content;Php:Var Name;13;4;21;4;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="this;Php:Var Name;6;1;11;1;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\views\layouts\column1.php" crc="1251531054">
+			<phptree>
+				<treenode node="content;Php:Var Name;12;3;20;3;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="this;Php:Var Name;6;1;11;1;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\tests\functional\SiteTest.php" crc="-156235079">
+			<phptree>
+				<treenode node="SiteTest;Php:Class Name;0;2;1;46;34;;;vWebTestCase;;c;;r;;d0,3;;b0,0;;m">
+					<treenode node="testContact;Php:Function Name;8;10;2;21;34;;;v;;r;;d1,11;;b1,0;;m">
+					</treenode>
+					<treenode node="testIndex;Php:Function Name;8;4;2;8;34;;;v;;r;;d1,5;;b1,0;;m">
+					</treenode>
+					<treenode node="testLoginLogout;Php:Function Name;8;23;2;45;34;;;v;;r;;d1,24;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\tests\WebTestCase.php" crc="-842558628">
+			<phptree>
+				<treenode node="WebTestCase;Php:Class Name;0;13;1;24;34;;;vCWebTestCase;;c;;r;;d0,14;;b0,0;;m">
+					<treenode node="setUp;Php:Function Name;11;19;2;23;34;;;v;;r;;d1,20;;b2,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\tests\phpunit.xml" crc="-2082664466">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\tests\bootstrap.php" crc="243140585">
+			<phptree>
+				<treenode node="config;Php:Var Name;0;4;7;4;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="yiit;Php:Var Name;0;3;5;3;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\runtime\gii-1.1.13\ModelCode.php" crc="-1905801330">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\runtime\gii-1.1.13\CrudCode.php" crc="1916344715">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\UsedSpaceInLectureUnit.php" crc="1580675903">
+			<phptree>
+				<treenode node="UsedSpaceInLectureUnit;Php:Class Name;0;20;1;110;34;;;vCActiveRecord;;c;;r;;d0,21;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;76;2;86;34;;;v;;r;;d1,77;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;27;2;30;34;;;v;;r;;d1,28;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;60;2;71;34;;;v;;r;;d1,61;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;43;2;55;34;;;v;;r;;d1,44;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;92;2;109;34;;;v;;r;;d1,93;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;35;2;38;34;;;v;;r;;d1,36;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\UsedMaterialInLectureUnit.php" crc="1827990972">
+			<phptree>
+				<treenode node="UsedMaterialInLectureUnit;Php:Class Name;0;21;1;114;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;78;2;89;34;;;v;;r;;d1,79;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;62;2;73;34;;;v;;r;;d1,63;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;57;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;95;2;113;34;;;v;;r;;d1,96;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\UsedInventoryInLectureUnit.php" crc="-1315427528">
+			<phptree>
+				<treenode node="UsedInventoryInLectureUnit;Php:Class Name;0;20;1;110;34;;;vCActiveRecord;;c;;r;;d0,21;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;76;2;86;34;;;v;;r;;d1,77;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;27;2;30;34;;;v;;r;;d1,28;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;60;2;71;34;;;v;;r;;d1,61;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;43;2;55;34;;;v;;r;;d1,44;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;92;2;109;34;;;v;;r;;d1,93;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;35;2;38;34;;;v;;r;;d1,36;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\SubjectTag.php" crc="-522109588">
+			<phptree>
+				<treenode node="SubjectTag;Php:Class Name;0;21;1;113;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;77;2;88;34;;;v;;r;;d1,78;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;61;2;72;34;;;v;;r;;d1,62;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;56;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;94;2;112;34;;;v;;r;;d1,95;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\SubjectInLectureUnit.php" crc="-1137644623">
+			<phptree>
+				<treenode node="SubjectInLectureUnit;Php:Class Name;0;19;1;108;34;;;vCActiveRecord;;c;;r;;d0,20;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;74;2;84;34;;;v;;r;;d1,75;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;26;2;29;34;;;v;;r;;d1,27;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;59;2;69;34;;;v;;r;;d1,60;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;42;2;54;34;;;v;;r;;d1,43;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;90;2;107;34;;;v;;r;;d1,91;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;34;2;37;34;;;v;;r;;d1,35;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\SubjectInCourse.php" crc="-1625961564">
+			<phptree>
+				<treenode node="SubjectInCourse;Php:Class Name;0;15;1;98;34;;;vCActiveRecord;;c;;r;;d0,16;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;68;2;76;34;;;v;;r;;d1,69;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;22;2;25;34;;;v;;r;;d1,23;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;55;2;63;34;;;v;;r;;d1,56;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;38;2;50;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;82;2;97;34;;;v;;r;;d1,83;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;30;2;33;34;;;v;;r;;d1,31;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\SubjectInAssessmentUnit.php" crc="-1831729398">
+			<phptree>
+				<treenode node="SubjectInAssessmentUnit;Php:Class Name;0;19;1;108;34;;;vCActiveRecord;;c;;r;;d0,20;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;74;2;84;34;;;v;;r;;d1,75;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;26;2;29;34;;;v;;r;;d1,27;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;59;2;69;34;;;v;;r;;d1,60;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;42;2;54;34;;;v;;r;;d1,43;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;90;2;107;34;;;v;;r;;d1,91;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;34;2;37;34;;;v;;r;;d1,35;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\Subject.php" crc="846984643">
+			<phptree>
+				<treenode node="Subject;Php:Class Name;0;23;1;117;34;;;vCActiveRecord;;c;;r;;d0,24;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;83;2;93;34;;;v;;r;;d1,84;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;30;2;33;34;;;v;;r;;d1,31;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;64;2;78;34;;;v;;r;;d1,65;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;46;2;59;34;;;v;;r;;d1,47;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;99;2;116;34;;;v;;r;;d1,100;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;38;2;41;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\StructureMemberHistory.php" crc="-135536797">
+			<phptree>
+				<treenode node="StructureMemberHistory;Php:Class Name;0;18;1;106;34;;;vCActiveRecord;;c;;r;;d0,19;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;72;2;82;34;;;v;;r;;d1,73;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;25;2;28;34;;;v;;r;;d1,26;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;58;2;67;34;;;v;;r;;d1,59;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;41;2;53;34;;;v;;r;;d1,42;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;88;2;105;34;;;v;;r;;d1,89;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;33;2;36;34;;;v;;r;;d1,34;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\StructureMember.php" crc="-1722666733">
+			<phptree>
+				<treenode node="StructureMember;Php:Class Name;0;22;1;116;34;;;vCActiveRecord;;c;;r;;d0,23;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;78;2;90;34;;;v;;r;;d1,79;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;29;2;32;34;;;v;;r;;d1,30;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;62;2;73;34;;;v;;r;;d1,63;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;45;2;57;34;;;v;;r;;d1,46;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;96;2;115;34;;;v;;r;;d1,97;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;37;2;40;34;;;v;;r;;d1,38;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\SpaceVsTime.php" crc="1861667198">
+			<phptree>
+				<treenode node="SpaceVsTime;Php:Class Name;0;15;1;98;34;;;vCActiveRecord;;c;;r;;d0,16;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;68;2;76;34;;;v;;r;;d1,69;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;22;2;25;34;;;v;;r;;d1,23;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;55;2;63;34;;;v;;r;;d1,56;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;38;2;50;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;82;2;97;34;;;v;;r;;d1,83;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;30;2;33;34;;;v;;r;;d1,31;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\SpaceOwnership.php" crc="535752350">
+			<phptree>
+				<treenode node="SpaceOwnership;Php:Class Name;0;20;1;111;34;;;vCActiveRecord;;c;;r;;d0,21;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;75;2;86;34;;;v;;r;;d1,76;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;27;2;30;34;;;v;;r;;d1,28;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;60;2;70;34;;;v;;r;;d1,61;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;43;2;55;34;;;v;;r;;d1,44;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;92;2;110;34;;;v;;r;;d1,93;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;35;2;38;34;;;v;;r;;d1,36;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\Space.php" crc="-216728319">
+			<phptree>
+				<treenode node="Space;Php:Class Name;0;26;1;123;34;;;vCActiveRecord;;c;;r;;d0,27;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;89;2;99;34;;;v;;r;;d1,90;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;33;2;36;34;;;v;;r;;d1,34;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;67;2;84;34;;;v;;r;;d1,68;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;49;2;62;34;;;v;;r;;d1,50;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;105;2;122;34;;;v;;r;;d1,106;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;41;2;44;34;;;v;;r;;d1,42;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\ReportComponent.php" crc="1991446940">
+			<phptree>
+				<treenode node="ReportComponent;Php:Class Name;0;15;1;98;34;;;vCActiveRecord;;c;;r;;d0,16;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;68;2;76;34;;;v;;r;;d1,69;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;22;2;25;34;;;v;;r;;d1,23;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;55;2;63;34;;;v;;r;;d1,56;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;38;2;50;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;82;2;97;34;;;v;;r;;d1,83;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;30;2;33;34;;;v;;r;;d1,31;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\Report.php" crc="-902948243">
+			<phptree>
+				<treenode node="Report;Php:Class Name;0;21;1;115;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;77;2;89;34;;;v;;r;;d1,78;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;62;2;72;34;;;v;;r;;d1,63;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;57;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;95;2;114;34;;;v;;r;;d1,96;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\RecruitmentStep.php" crc="203778413">
+			<phptree>
+				<treenode node="RecruitmentStep;Php:Class Name;0;20;1;112;34;;;vCActiveRecord;;c;;r;;d0,21;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;76;2;87;34;;;v;;r;;d1,77;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;27;2;30;34;;;v;;r;;d1,28;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;61;2;71;34;;;v;;r;;d1,62;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;43;2;56;34;;;v;;r;;d1,44;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;93;2;111;34;;;v;;r;;d1,94;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;35;2;38;34;;;v;;r;;d1,36;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\Recruitment.php" crc="1600384374">
+			<phptree>
+				<treenode node="Recruitment;Php:Class Name;0;21;1;115;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;77;2;89;34;;;v;;r;;d1,78;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;62;2;72;34;;;v;;r;;d1,63;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;57;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;95;2;114;34;;;v;;r;;d1,96;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\PropertyType.php" crc="1929264755">
+			<phptree>
+				<treenode node="PropertyType;Php:Class Name;0;15;1;99;34;;;vCActiveRecord;;c;;r;;d0,16;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;67;2;76;34;;;v;;r;;d1,68;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;22;2;25;34;;;v;;r;;d1,23;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;55;2;62;34;;;v;;r;;d1,56;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;38;2;50;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;82;2;98;34;;;v;;r;;d1,83;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;30;2;33;34;;;v;;r;;d1,31;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\ProducedInventoryInLectureUnit.php" crc="-582563351">
+			<phptree>
+				<treenode node="ProducedInventoryInLectureUnit;Php:Class Name;0;20;1;111;34;;;vCActiveRecord;;c;;r;;d0,21;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;75;2;86;34;;;v;;r;;d1,76;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;27;2;30;34;;;v;;r;;d1,28;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;60;2;70;34;;;v;;r;;d1,61;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;43;2;55;34;;;v;;r;;d1,44;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;92;2;110;34;;;v;;r;;d1,93;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;35;2;38;34;;;v;;r;;d1,36;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\PositionInStructure.php" crc="-693614325">
+			<phptree>
+				<treenode node="PositionInStructure;Php:Class Name;0;20;1;111;34;;;vCActiveRecord;;c;;r;;d0,21;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;77;2;87;34;;;v;;r;;d1,78;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;27;2;30;34;;;v;;r;;d1,28;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;61;2;72;34;;;v;;r;;d1,62;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;43;2;56;34;;;v;;r;;d1,44;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;93;2;110;34;;;v;;r;;d1,94;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;35;2;38;34;;;v;;r;;d1,36;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\PersonRelationship.php" crc="-1326974581">
+			<phptree>
+				<treenode node="PersonRelationship;Php:Class Name;0;21;1;113;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;77;2;88;34;;;v;;r;;d1,78;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;61;2;72;34;;;v;;r;;d1,62;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;56;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;94;2;112;34;;;v;;r;;d1,95;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\PersonParticipateInRecruitment.php" crc="1188090599">
+			<phptree>
+				<treenode node="PersonParticipateInRecruitment;Php:Class Name;0;19;1;108;34;;;vCActiveRecord;;c;;r;;d0,20;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;74;2;84;34;;;v;;r;;d1,75;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;26;2;29;34;;;v;;r;;d1,27;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;59;2;69;34;;;v;;r;;d1,60;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;42;2;54;34;;;v;;r;;d1,43;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;90;2;107;34;;;v;;r;;d1,91;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;34;2;37;34;;;v;;r;;d1,35;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\PersonAttendance.php" crc="1715612521">
+			<phptree>
+				<treenode node="PersonAttendance;Php:Class Name;0;19;1;108;34;;;vCActiveRecord;;c;;r;;d0,20;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;74;2;84;34;;;v;;r;;d1,75;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;26;2;29;34;;;v;;r;;d1,27;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;59;2;69;34;;;v;;r;;d1,60;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;42;2;54;34;;;v;;r;;d1,43;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;90;2;107;34;;;v;;r;;d1,91;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;34;2;37;34;;;v;;r;;d1,35;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\Person.php" crc="-669304992">
+			<phptree>
+				<treenode node="Person;Php:Class Name;0;38;1;156;34;;;vCActiveRecord;;c;;r;;d0,39;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;112;2;126;34;;;varray;;r @return customized attribute labels (name=&gt;label);;d1,113;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;45;2;48;34;;;vPerson;;r Returns the static model of the specified AR class. @param active record class name. @return the static model class;;d1,46;;b1,5;;mstring $className;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;83;2;107;34;;;varray;;r @return relational rules.;;d1,84;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;61;2;78;34;;;varray;;r @return validation rules for model attributes.;;d1,62;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;132;2;154;34;;;vCActiveDataProvider;;r Retrieves a list of models based on the current search /filter conditions. @return the data provider that can return the models based on the search /filter conditions.;;d1,133;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;53;2;56;34;;;vstring;;r @return the associated database table name;;d1,54;;b1,0;;m">
+					</treenode>
+					<treenode node="absenceFactors;Php:Var Name;28;18;44;18;34;AbsenceFactor[];;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="assessmentSetConversions;Php:Var Name;38;19;64;19;34;AssessmentSetConversion[];;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="assessmentSetValues;Php:Var Name;33;20;54;20;34;AssessmentSetValue[];;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="assessmentUnitValues;Php:Var Name;34;21;56;21;34;AssessmentUnitValue[];;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="BirthDate;Php:Var Name;19;11;30;11;34;string;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="BirthPlace;Php:Var Name;19;12;31;12;34;string;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="courseUnitConversions;Php:Var Name;35;22;58;22;34;CourseUnitConversion[];;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="courseUnitValues;Php:Var Name;30;23;48;23;34;CourseUnitValue[];;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="DeletedStatus;Php:Var Name;20;15;35;15;34;integer;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="FirstName;Php:Var Name;19;7;30;7;34;string;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="gradeFactors;Php:Var Name;26;24;40;24;34;GradeFactor[];;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="groupMembers;Php:Var Name;26;25;40;25;34;GroupMember[];;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="id;Php:Var Name;19;6;23;6;34;string;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="LastName;Php:Var Name;19;9;29;9;34;string;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="lectureSetConversions;Php:Var Name;35;26;58;26;34;LectureSetConversion[];;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="medicalRecords;Php:Var Name;28;27;44;27;34;MedicalRecord[];;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="MiddleName;Php:Var Name;19;8;31;8;34;string;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="people;Php:Var Name;21;29;29;29;34;Person[];;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="personAttendances;Php:Var Name;31;30;50;30;34;PersonAttendance[];;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="personParticipateInRecruitments;Php:Var Name;45;31;78;31;34;PersonParticipateInRecruitment[];;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="personRelationships;Php:Var Name;33;32;54;32;34;PersonRelationship[];;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="personRelationships1;Php:Var Name;33;33;55;33;34;PersonRelationship[];;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="revisedRow;Php:Var Name;19;28;31;28;34;Person;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="RevisedRow;Php:Var Name;19;13;31;13;34;string;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="Sex;Php:Var Name;20;10;25;10;34;integer;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="structureMemberHistories;Php:Var Name;37;35;63;35;34;StructureMemberHistory[];;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="structureMembers;Php:Var Name;30;34;48;34;34;StructureMember[];;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+					<treenode node="TippedStatus;Php:Var Name;20;14;34;14;34;integer;;v;;r;;d-1,-1;;b0,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\NotLabelledInventory.php" crc="-2016098835">
+			<phptree>
+				<treenode node="NotLabelledInventory;Php:Class Name;0;24;1;120;34;;;vCActiveRecord;;c;;r;;d0,25;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;82;2;94;34;;;v;;r;;d1,83;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;31;2;34;34;;;v;;r;;d1,32;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;64;2;77;34;;;v;;r;;d1,65;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;47;2;59;34;;;v;;r;;d1,48;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;100;2;119;34;;;v;;r;;d1,101;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;39;2;42;34;;;v;;r;;d1,40;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\MicrotimeUnit.php" crc="1051732317">
+			<phptree>
+				<treenode node="MicrotimeUnit;Php:Class Name;0;23;1;120;34;;;vCActiveRecord;;c;;r;;d0,24;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;80;2;93;34;;;v;;r;;d1,81;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;30;2;33;34;;;v;;r;;d1,31;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;64;2;75;34;;;v;;r;;d1,65;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;46;2;59;34;;;v;;r;;d1,47;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;99;2;119;34;;;v;;r;;d1,100;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;38;2;41;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\MicrotimeSet.php" crc="1385006468">
+			<phptree>
+				<treenode node="MicrotimeSet;Php:Class Name;0;19;1;109;34;;;vCActiveRecord;;c;;r;;d0,20;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;75;2;85;34;;;v;;r;;d1,76;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;26;2;29;34;;;v;;r;;d1,27;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;60;2;70;34;;;v;;r;;d1,61;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;42;2;55;34;;;v;;r;;d1,43;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;91;2;108;34;;;v;;r;;d1,92;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;34;2;37;34;;;v;;r;;d1,35;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\MedicalRecord.php" crc="-20704520">
+			<phptree>
+				<treenode node="MedicalRecord;Php:Class Name;0;23;1;120;34;;;vCActiveRecord;;c;;r;;d0,24;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;80;2;93;34;;;v;;r;;d1,81;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;30;2;33;34;;;v;;r;;d1,31;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;64;2;75;34;;;v;;r;;d1,65;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;46;2;59;34;;;v;;r;;d1,47;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;99;2;119;34;;;v;;r;;d1,100;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;38;2;41;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\MaterialVsTime.php" crc="493241190">
+			<phptree>
+				<treenode node="MaterialVsTime;Php:Class Name;0;15;1;98;34;;;vCActiveRecord;;c;;r;;d0,16;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;68;2;76;34;;;v;;r;;d1,69;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;22;2;25;34;;;v;;r;;d1,23;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;55;2;63;34;;;v;;r;;d1,56;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;38;2;50;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;82;2;97;34;;;v;;r;;d1,83;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;30;2;33;34;;;v;;r;;d1,31;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\MaterialType.php" crc="-175471049">
+			<phptree>
+				<treenode node="MaterialType;Php:Class Name;0;21;1;114;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;78;2;89;34;;;v;;r;;d1,79;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;62;2;73;34;;;v;;r;;d1,63;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;57;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;95;2;113;34;;;v;;r;;d1,96;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\MaterialLocation.php" crc="155913932">
+			<phptree>
+				<treenode node="MaterialLocation;Php:Class Name;0;23;1;118;34;;;vCActiveRecord;;c;;r;;d0,24;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;82;2;93;34;;;v;;r;;d1,83;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;30;2;33;34;;;v;;r;;d1,31;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;64;2;77;34;;;v;;r;;d1,65;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;46;2;59;34;;;v;;r;;d1,47;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;99;2;117;34;;;v;;r;;d1,100;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;38;2;41;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\MaterialHistory.php" crc="1015050182">
+			<phptree>
+				<treenode node="MaterialHistory;Php:Class Name;0;26;1;129;34;;;vCActiveRecord;;c;;r;;d0,27;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;85;2;100;34;;;v;;r;;d1,86;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;33;2;36;34;;;v;;r;;d1,34;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;68;2;80;34;;;v;;r;;d1,69;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;49;2;63;34;;;v;;r;;d1,50;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;106;2;128;34;;;v;;r;;d1,107;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;41;2;44;34;;;v;;r;;d1,42;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\MaterialChangeInLectureUnit.php" crc="2055151471">
+			<phptree>
+				<treenode node="MaterialChangeInLectureUnit;Php:Class Name;0;21;1;115;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;77;2;89;34;;;v;;r;;d1,78;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;62;2;72;34;;;v;;r;;d1,63;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;57;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;95;2;114;34;;;v;;r;;d1,96;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\Material.php" crc="1238123353">
+			<phptree>
+				<treenode node="Material;Php:Class Name;0;23;1;119;34;;;vCActiveRecord;;c;;r;;d0,24;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;81;2;93;34;;;v;;r;;d1,82;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;30;2;33;34;;;v;;r;;d1,31;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;64;2;76;34;;;v;;r;;d1,65;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;46;2;59;34;;;v;;r;;d1,47;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;99;2;118;34;;;v;;r;;d1,100;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;38;2;41;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\MacrotimeUnit.php" crc="-2104076244">
+			<phptree>
+				<treenode node="MacrotimeUnit;Php:Class Name;0;24;1;124;34;;;vCActiveRecord;;c;;r;;d0,25;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;80;2;95;34;;;v;;r;;d1,81;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;31;2;34;34;;;v;;r;;d1,32;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;65;2;75;34;;;v;;r;;d1,66;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;47;2;60;34;;;v;;r;;d1,48;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;101;2;123;34;;;v;;r;;d1,102;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;39;2;42;34;;;v;;r;;d1,40;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\MacrotimeSet.php" crc="-1406073625">
+			<phptree>
+				<treenode node="MacrotimeSet;Php:Class Name;0;19;1;109;34;;;vCActiveRecord;;c;;r;;d0,20;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;75;2;85;34;;;v;;r;;d1,76;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;26;2;29;34;;;v;;r;;d1,27;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;60;2;70;34;;;v;;r;;d1,61;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;42;2;55;34;;;v;;r;;d1,43;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;91;2;108;34;;;v;;r;;d1,92;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;34;2;37;34;;;v;;r;;d1,35;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\Lookup.php" crc="677033823">
+			<phptree>
+				<treenode node="Lookup;Php:Class Name;0;19;1;105;34;;;vCActiveRecord;;c;;r;;d0,20;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;75;2;83;34;;;v;;r;;d1,76;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;26;2;29;34;;;v;;r;;d1,27;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;58;2;70;34;;;v;;r;;d1,59;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;42;2;53;34;;;v;;r;;d1,43;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;89;2;104;34;;;v;;r;;d1,90;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;34;2;37;34;;;v;;r;;d1,35;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\LoginForm.php" crc="1269253934">
+			<phptree>
+				<treenode node="LoginForm;Php:Class Name;0;7;1;76;34;;;vCFormModel;;c;;r;;d0,8;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;35;2;40;34;;;v;;r;;d1,36;;b1,0;;m">
+					</treenode>
+					<treenode node="authenticate;Php:Function Name;8;46;2;54;34;;;v;;r;;d1,47;;b1,0;;mattribute;;pparams;;p">
+					</treenode>
+					<treenode node="login;Php:Function Name;8;60;2;75;34;;;v;;r;;d1,61;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;20;2;30;34;;;v;;r;;d1,21;;b1,0;;m">
+					</treenode>
+					<treenode node="_identity;Php:Var Name;9;13;19;13;34;;;v;;r;;d-1,-1;;b3,0;;m">
+					</treenode>
+					<treenode node="password;Php:Var Name;8;10;17;10;34;;;v;;r;;d-1,-1;;b1,0;;m">
+					</treenode>
+					<treenode node="rememberMe;Php:Var Name;8;11;19;11;34;;;v;;r;;d-1,-1;;b1,0;;m">
+					</treenode>
+					<treenode node="username;Php:Var Name;8;9;17;9;34;;;v;;r;;d-1,-1;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\Log.php" crc="-1644379014">
+			<phptree>
+				<treenode node="Log;Php:Class Name;0;16;1;103;34;;;vCActiveRecord;;c;;r;;d0,17;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;69;2;79;34;;;v;;r;;d1,70;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;23;2;26;34;;;v;;r;;d1,24;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;57;2;64;34;;;v;;r;;d1,58;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;39;2;52;34;;;v;;r;;d1,40;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;85;2;102;34;;;v;;r;;d1,86;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;31;2;34;34;;;v;;r;;d1,32;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\LectureUnitOccurrence.php" crc="217239385">
+			<phptree>
+				<treenode node="LectureUnitOccurrence;Php:Class Name;0;27;1;129;34;;;vCActiveRecord;;c;;r;;d0,28;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;87;2;101;34;;;v;;r;;d1,88;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;34;2;37;34;;;v;;r;;d1,35;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;68;2;82;34;;;v;;r;;d1,69;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;50;2;63;34;;;v;;r;;d1,51;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;107;2;128;34;;;v;;r;;d1,108;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;42;2;45;34;;;v;;r;;d1,43;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\LectureUnitAssociation.php" crc="1569635858">
+			<phptree>
+				<treenode node="LectureUnitAssociation;Php:Class Name;0;15;1;98;34;;;vCActiveRecord;;c;;r;;d0,16;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;68;2;76;34;;;v;;r;;d1,69;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;22;2;25;34;;;v;;r;;d1,23;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;55;2;63;34;;;v;;r;;d1,56;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;38;2;50;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;82;2;97;34;;;v;;r;;d1,83;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;30;2;33;34;;;v;;r;;d1,31;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\LectureUnit.php" crc="-1877508434">
+			<phptree>
+				<treenode node="LectureUnit;Php:Class Name;0;29;1;129;34;;;vCActiveRecord;;c;;r;;d0,30;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;95;2;105;34;;;v;;r;;d1,96;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;36;2;39;34;;;v;;r;;d1,37;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;70;2;90;34;;;v;;r;;d1,71;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;52;2;65;34;;;v;;r;;d1,53;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;111;2;128;34;;;v;;r;;d1,112;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;44;2;47;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\LectureSetConversion.php" crc="-1305234315">
+			<phptree>
+				<treenode node="LectureSetConversion;Php:Class Name;0;21;1;113;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;77;2;88;34;;;v;;r;;d1,78;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;61;2;72;34;;;v;;r;;d1,62;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;56;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;94;2;112;34;;;v;;r;;d1,95;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\LectureSetAssociation.php" crc="879774883">
+			<phptree>
+				<treenode node="LectureSetAssociation;Php:Class Name;0;15;1;98;34;;;vCActiveRecord;;c;;r;;d0,16;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;68;2;76;34;;;v;;r;;d1,69;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;22;2;25;34;;;v;;r;;d1,23;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;55;2;63;34;;;v;;r;;d1,56;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;38;2;50;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;82;2;97;34;;;v;;r;;d1,83;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;30;2;33;34;;;v;;r;;d1,31;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\LectureSet.php" crc="-967484581">
+			<phptree>
+				<treenode node="LectureSet;Php:Class Name;0;25;1;122;34;;;vCActiveRecord;;c;;r;;d0,26;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;86;2;97;34;;;v;;r;;d1,87;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;32;2;35;34;;;v;;r;;d1,33;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;66;2;81;34;;;v;;r;;d1,67;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;48;2;61;34;;;v;;r;;d1,49;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;103;2;121;34;;;v;;r;;d1,104;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;40;2;43;34;;;v;;r;;d1,41;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\LabellingHistory.php" crc="200266761">
+			<phptree>
+				<treenode node="LabellingHistory;Php:Class Name;0;20;1;111;34;;;vCActiveRecord;;c;;r;;d0,21;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;75;2;86;34;;;v;;r;;d1,76;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;27;2;30;34;;;v;;r;;d1,28;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;60;2;70;34;;;v;;r;;d1,61;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;43;2;55;34;;;v;;r;;d1,44;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;92;2;110;34;;;v;;r;;d1,93;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;35;2;38;34;;;v;;r;;d1,36;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\InventoryVsTime.php" crc="-1762189271">
+			<phptree>
+				<treenode node="InventoryVsTime;Php:Class Name;0;15;1;98;34;;;vCActiveRecord;;c;;r;;d0,16;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;68;2;76;34;;;v;;r;;d1,69;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;22;2;25;34;;;v;;r;;d1,23;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;55;2;63;34;;;v;;r;;d1,56;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;38;2;50;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;82;2;97;34;;;v;;r;;d1,83;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;30;2;33;34;;;v;;r;;d1,31;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\InventoryType.php" crc="-1586182090">
+			<phptree>
+				<treenode node="InventoryType;Php:Class Name;0;22;1;116;34;;;vCActiveRecord;;c;;r;;d0,23;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;80;2;91;34;;;v;;r;;d1,81;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;29;2;32;34;;;v;;r;;d1,30;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;63;2;75;34;;;v;;r;;d1,64;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;45;2;58;34;;;v;;r;;d1,46;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;97;2;115;34;;;v;;r;;d1,98;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;37;2;40;34;;;v;;r;;d1,38;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\InventoryOwnershipHistory.php" crc="772172221">
+			<phptree>
+				<treenode node="InventoryOwnershipHistory;Php:Class Name;0;23;1;120;34;;;vCActiveRecord;;c;;r;;d0,24;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;80;2;93;34;;;v;;r;;d1,81;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;30;2;33;34;;;v;;r;;d1,31;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;64;2;75;34;;;v;;r;;d1,65;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;46;2;59;34;;;v;;r;;d1,47;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;99;2;119;34;;;v;;r;;d1,100;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;38;2;41;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\InventoryLocationHistory.php" crc="201081465">
+			<phptree>
+				<treenode node="InventoryLocationHistory;Php:Class Name;0;23;1;120;34;;;vCActiveRecord;;c;;r;;d0,24;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;80;2;93;34;;;v;;r;;d1,81;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;30;2;33;34;;;v;;r;;d1,31;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;64;2;75;34;;;v;;r;;d1,65;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;46;2;59;34;;;v;;r;;d1,47;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;99;2;119;34;;;v;;r;;d1,100;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;38;2;41;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\InventoryLabelTemplate.php" crc="1679733760">
+			<phptree>
+				<treenode node="InventoryLabelTemplate;Php:Class Name;0;16;1;102;34;;;vCActiveRecord;;c;;r;;d0,17;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;68;2;78;34;;;v;;r;;d1,69;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;23;2;26;34;;;v;;r;;d1,24;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;56;2;63;34;;;v;;r;;d1,57;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;39;2;51;34;;;v;;r;;d1,40;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;84;2;101;34;;;v;;r;;d1,85;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;31;2;34;34;;;v;;r;;d1,32;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\InventoryAvailabilityHistory.php" crc="189440454">
+			<phptree>
+				<treenode node="InventoryAvailabilityHistory;Php:Class Name;0;21;1;116;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;76;2;89;34;;;v;;r;;d1,77;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;62;2;71;34;;;v;;r;;d1,63;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;57;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;95;2;115;34;;;v;;r;;d1,96;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\Inventory.php" crc="852784040">
+			<phptree>
+				<treenode node="Inventory;Php:Class Name;0;28;1;130;34;;;vCActiveRecord;;c;;r;;d0,29;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;90;2;103;34;;;v;;r;;d1,91;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;35;2;38;34;;;v;;r;;d1,36;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;69;2;85;34;;;v;;r;;d1,70;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;51;2;64;34;;;v;;r;;d1,52;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;109;2;129;34;;;v;;r;;d1,110;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;43;2;46;34;;;v;;r;;d1,44;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\IncomeType.php" crc="-837131811">
+			<phptree>
+				<treenode node="IncomeType;Php:Class Name;0;21;1;114;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;78;2;89;34;;;v;;r;;d1,79;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;62;2;73;34;;;v;;r;;d1,63;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;57;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;95;2;113;34;;;v;;r;;d1,96;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\IncomeInLectureUnit.php" crc="2121386107">
+			<phptree>
+				<treenode node="IncomeInLectureUnit;Php:Class Name;0;19;1;109;34;;;vCActiveRecord;;c;;r;;d0,20;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;73;2;84;34;;;v;;r;;d1,74;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;26;2;29;34;;;v;;r;;d1,27;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;59;2;68;34;;;v;;r;;d1,60;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;42;2;54;34;;;v;;r;;d1,43;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;90;2;108;34;;;v;;r;;d1,91;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;34;2;37;34;;;v;;r;;d1,35;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\Income.php" crc="1863701889">
+			<phptree>
+				<treenode node="Income;Php:Class Name;0;21;1;113;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;77;2;88;34;;;v;;r;;d1,78;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;61;2;72;34;;;v;;r;;d1,62;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;56;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;94;2;112;34;;;v;;r;;d1,95;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\GroupStructureHistory.php" crc="1339417873">
+			<phptree>
+				<treenode node="GroupStructureHistory;Php:Class Name;0;18;1;107;34;;;vCActiveRecord;;c;;r;;d0,19;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;73;2;83;34;;;v;;r;;d1,74;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;25;2;28;34;;;v;;r;;d1,26;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;59;2;68;34;;;v;;r;;d1,60;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;41;2;54;34;;;v;;r;;d1,42;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;89;2;106;34;;;v;;r;;d1,90;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;33;2;36;34;;;v;;r;;d1,34;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\GroupStructure.php" crc="972625796">
+			<phptree>
+				<treenode node="GroupStructure;Php:Class Name;0;25;1;125;34;;;vCActiveRecord;;c;;r;;d0,26;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;85;2;98;34;;;v;;r;;d1,86;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;32;2;35;34;;;v;;r;;d1,33;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;67;2;80;34;;;v;;r;;d1,68;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;48;2;62;34;;;v;;r;;d1,49;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;104;2;124;34;;;v;;r;;d1,105;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;40;2;43;34;;;v;;r;;d1,41;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\GroupMember.php" crc="-1500373266">
+			<phptree>
+				<treenode node="GroupMember;Php:Class Name;0;19;1;108;34;;;vCActiveRecord;;c;;r;;d0,20;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;74;2;84;34;;;v;;r;;d1,75;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;26;2;29;34;;;v;;r;;d1,27;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;59;2;69;34;;;v;;r;;d1,60;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;42;2;54;34;;;v;;r;;d1,43;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;90;2;107;34;;;v;;r;;d1,91;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;34;2;37;34;;;v;;r;;d1,35;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\GroupHistory.php" crc="-719996189">
+			<phptree>
+				<treenode node="GroupHistory;Php:Class Name;0;12;1;96;34;;;vCActiveRecord;;c;;r;;d0,13;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;64;2;73;34;;;v;;r;;d1,65;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;19;2;22;34;;;v;;r;;d1,20;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;53;2;59;34;;;v;;r;;d1,54;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;35;2;48;34;;;v;;r;;d1,36;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;79;2;95;34;;;v;;r;;d1,80;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;27;2;30;34;;;v;;r;;d1,28;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\Group.php" crc="-1436568462">
+			<phptree>
+				<treenode node="Group;Php:Class Name;0;44;1;162;34;;;vCActiveRecord;;c;;r;;d0,45;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;124;2;136;34;;;v;;r;;d1,125;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;51;2;54;34;;;v;;r;;d1,52;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;86;2;119;34;;;v;;r;;d1,87;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;67;2;81;34;;;v;;r;;d1,68;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;142;2;161;34;;;v;;r;;d1,143;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;59;2;62;34;;;v;;r;;d1,60;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\GradeFactor.php" crc="-249151798">
+			<phptree>
+				<treenode node="GradeFactor;Php:Class Name;0;22;1;116;34;;;vCActiveRecord;;c;;r;;d0,23;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;78;2;90;34;;;v;;r;;d1,79;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;29;2;32;34;;;v;;r;;d1,30;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;62;2;73;34;;;v;;r;;d1,63;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;45;2;57;34;;;v;;r;;d1,46;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;96;2;115;34;;;v;;r;;d1,97;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;37;2;40;34;;;v;;r;;d1,38;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\Generation.php" crc="625376445">
+			<phptree>
+				<treenode node="Generation;Php:Class Name;0;19;1;109;34;;;vCActiveRecord;;c;;r;;d0,20;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;75;2;85;34;;;v;;r;;d1,76;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;26;2;29;34;;;v;;r;;d1,27;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;60;2;70;34;;;v;;r;;d1,61;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;42;2;55;34;;;v;;r;;d1,43;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;91;2;108;34;;;v;;r;;d1,92;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;34;2;37;34;;;v;;r;;d1,35;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\ExternalInstitution.php" crc="296530174">
+			<phptree>
+				<treenode node="ExternalInstitution;Php:Class Name;0;20;1;111;34;;;vCActiveRecord;;c;;r;;d0,21;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;77;2;87;34;;;v;;r;;d1,78;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;27;2;30;34;;;v;;r;;d1,28;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;61;2;72;34;;;v;;r;;d1,62;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;43;2;56;34;;;v;;r;;d1,44;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;93;2;110;34;;;v;;r;;d1,94;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;35;2;38;34;;;v;;r;;d1,36;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\ExpenseType.php" crc="683514599">
+			<phptree>
+				<treenode node="ExpenseType;Php:Class Name;0;21;1;114;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;78;2;89;34;;;v;;r;;d1,79;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;62;2;73;34;;;v;;r;;d1,63;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;57;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;95;2;113;34;;;v;;r;;d1,96;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\Expense.php" crc="-974535880">
+			<phptree>
+				<treenode node="Expense;Php:Class Name;0;21;1;113;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;77;2;88;34;;;v;;r;;d1,78;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;61;2;72;34;;;v;;r;;d1,62;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;56;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;94;2;112;34;;;v;;r;;d1,95;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\ExpenceInLectureUnit.php" crc="1457453739">
+			<phptree>
+				<treenode node="ExpenceInLectureUnit;Php:Class Name;0;19;1;109;34;;;vCActiveRecord;;c;;r;;d0,20;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;73;2;84;34;;;v;;r;;d1,74;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;26;2;29;34;;;v;;r;;d1,27;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;59;2;68;34;;;v;;r;;d1,60;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;42;2;54;34;;;v;;r;;d1,43;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;90;2;108;34;;;v;;r;;d1,91;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;34;2;37;34;;;v;;r;;d1,35;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\Event.php" crc="-2010394160">
+			<phptree>
+				<treenode node="Event;Php:Class Name;0;23;1;121;34;;;vCActiveRecord;;c;;r;;d0,24;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;79;2;93;34;;;v;;r;;d1,80;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;30;2;33;34;;;v;;r;;d1,31;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;64;2;74;34;;;v;;r;;d1,65;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;46;2;59;34;;;v;;r;;d1,47;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;99;2;120;34;;;v;;r;;d1,100;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;38;2;41;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\DocumentBundle.php" crc="-1094450980">
+			<phptree>
+				<treenode node="DocumentBundle;Php:Class Name;0;22;1;117;34;;;vCActiveRecord;;c;;r;;d0,23;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;81;2;92;34;;;v;;r;;d1,82;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;29;2;32;34;;;v;;r;;d1,30;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;64;2;76;34;;;v;;r;;d1,65;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;45;2;59;34;;;v;;r;;d1,46;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;98;2;116;34;;;v;;r;;d1,99;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;37;2;40;34;;;v;;r;;d1,38;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\Document.php" crc="-814245758">
+			<phptree>
+				<treenode node="Document;Php:Class Name;0;27;1;135;34;;;vCActiveRecord;;c;;r;;d0,28;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;83;2;102;34;;;v;;r;;d1,84;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;34;2;37;34;;;v;;r;;d1,35;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;69;2;78;34;;;v;;r;;d1,70;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;50;2;64;34;;;v;;r;;d1,51;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;108;2;134;34;;;v;;r;;d1,109;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;42;2;45;34;;;v;;r;;d1,43;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\Disease.php" crc="-15072158">
+			<phptree>
+				<treenode node="Disease;Php:Class Name;0;20;1;111;34;;;vCActiveRecord;;c;;r;;d0,21;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;77;2;87;34;;;v;;r;;d1,78;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;27;2;30;34;;;v;;r;;d1,28;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;61;2;72;34;;;v;;r;;d1,62;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;43;2;56;34;;;v;;r;;d1,44;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;93;2;110;34;;;v;;r;;d1,94;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;35;2;38;34;;;v;;r;;d1,36;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\DayUnit.php" crc="-1875609234">
+			<phptree>
+				<treenode node="DayUnit;Php:Class Name;0;19;1;109;34;;;vCActiveRecord;;c;;r;;d0,20;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;75;2;85;34;;;v;;r;;d1,76;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;26;2;29;34;;;v;;r;;d1,27;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;60;2;70;34;;;v;;r;;d1,61;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;42;2;55;34;;;v;;r;;d1,43;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;91;2;108;34;;;v;;r;;d1,92;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;34;2;37;34;;;v;;r;;d1,35;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\DaySetOwnership.php" crc="435949236">
+			<phptree>
+				<treenode node="DaySetOwnership;Php:Class Name;0;15;1;98;34;;;vCActiveRecord;;c;;r;;d0,16;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;68;2;76;34;;;v;;r;;d1,69;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;22;2;25;34;;;v;;r;;d1,23;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;55;2;63;34;;;v;;r;;d1,56;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;38;2;50;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;82;2;97;34;;;v;;r;;d1,83;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;30;2;33;34;;;v;;r;;d1,31;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\DaySet.php" crc="1759389013">
+			<phptree>
+				<treenode node="DaySet;Php:Class Name;0;18;1;106;34;;;vCActiveRecord;;c;;r;;d0,19;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;74;2;83;34;;;v;;r;;d1,75;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;25;2;28;34;;;v;;r;;d1,26;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;59;2;69;34;;;v;;r;;d1,60;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;41;2;54;34;;;v;;r;;d1,42;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;89;2;105;34;;;v;;r;;d1,90;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;33;2;36;34;;;v;;r;;d1,34;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\CurriculumSetting.php" crc="-563507844">
+			<phptree>
+				<treenode node="CurriculumSetting;Php:Class Name;0;19;1;109;34;;;vCActiveRecord;;c;;r;;d0,20;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;73;2;84;34;;;v;;r;;d1,74;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;26;2;29;34;;;v;;r;;d1,27;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;59;2;68;34;;;v;;r;;d1,60;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;42;2;54;34;;;v;;r;;d1,43;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;90;2;108;34;;;v;;r;;d1,91;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;34;2;37;34;;;v;;r;;d1,35;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\CurriculumParticipant.php" crc="-329483923">
+			<phptree>
+				<treenode node="CurriculumParticipant;Php:Class Name;0;19;1;108;34;;;vCActiveRecord;;c;;r;;d0,20;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;74;2;84;34;;;v;;r;;d1,75;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;26;2;29;34;;;v;;r;;d1,27;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;59;2;69;34;;;v;;r;;d1,60;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;42;2;54;34;;;v;;r;;d1,43;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;90;2;107;34;;;v;;r;;d1,91;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;34;2;37;34;;;v;;r;;d1,35;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\CurriculumComponent.php" crc="767380997">
+			<phptree>
+				<treenode node="CurriculumComponent;Php:Class Name;0;21;1;114;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;76;2;88;34;;;v;;r;;d1,77;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;61;2;71;34;;;v;;r;;d1,62;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;56;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;94;2;113;34;;;v;;r;;d1,95;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\Curriculum.php" crc="1431666765">
+			<phptree>
+				<treenode node="Curriculum;Php:Class Name;0;25;1;122;34;;;vCActiveRecord;;c;;r;;d0,26;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;86;2;97;34;;;v;;r;;d1,87;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;32;2;35;34;;;v;;r;;d1,33;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;66;2;81;34;;;v;;r;;d1,67;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;48;2;61;34;;;v;;r;;d1,49;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;103;2;121;34;;;v;;r;;d1,104;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;40;2;43;34;;;v;;r;;d1,41;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\CourseUnitValue.php" crc="1234252155">
+			<phptree>
+				<treenode node="CourseUnitValue;Php:Class Name;0;21;1;115;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;77;2;89;34;;;v;;r;;d1,78;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;62;2;72;34;;;v;;r;;d1,63;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;57;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;95;2;114;34;;;v;;r;;d1,96;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\CourseUnitRule.php" crc="-735283782">
+			<phptree>
+				<treenode node="CourseUnitRule;Php:Class Name;0;20;1;113;34;;;vCActiveRecord;;c;;r;;d0,21;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;75;2;87;34;;;v;;r;;d1,76;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;27;2;30;34;;;v;;r;;d1,28;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;61;2;70;34;;;v;;r;;d1,62;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;43;2;56;34;;;v;;r;;d1,44;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;93;2;112;34;;;v;;r;;d1,94;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;35;2;38;34;;;v;;r;;d1,36;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\CourseUnitConversion.php" crc="-1480662854">
+			<phptree>
+				<treenode node="CourseUnitConversion;Php:Class Name;0;21;1;113;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;77;2;88;34;;;v;;r;;d1,78;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;61;2;72;34;;;v;;r;;d1,62;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;56;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;94;2;112;34;;;v;;r;;d1,95;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\CourseUnitAssociation.php" crc="-287051467">
+			<phptree>
+				<treenode node="CourseUnitAssociation;Php:Class Name;0;15;1;98;34;;;vCActiveRecord;;c;;r;;d0,16;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;68;2;76;34;;;v;;r;;d1,69;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;22;2;25;34;;;v;;r;;d1,23;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;55;2;63;34;;;v;;r;;d1,56;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;38;2;50;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;82;2;97;34;;;v;;r;;d1,83;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;30;2;33;34;;;v;;r;;d1,31;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\CourseUnit.php" crc="-1383894448">
+			<phptree>
+				<treenode node="CourseUnit;Php:Class Name;0;29;1;130;34;;;vCActiveRecord;;c;;r;;d0,30;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;94;2;105;34;;;v;;r;;d1,95;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;36;2;39;34;;;v;;r;;d1,37;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;70;2;89;34;;;v;;r;;d1,71;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;52;2;65;34;;;v;;r;;d1,53;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;111;2;129;34;;;v;;r;;d1,112;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;44;2;47;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\CourseSetComponent.php" crc="-1941169785">
+			<phptree>
+				<treenode node="CourseSetComponent;Php:Class Name;0;20;1;111;34;;;vCActiveRecord;;c;;r;;d0,21;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;75;2;86;34;;;v;;r;;d1,76;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;27;2;30;34;;;v;;r;;d1,28;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;60;2;70;34;;;v;;r;;d1,61;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;43;2;55;34;;;v;;r;;d1,44;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;92;2;110;34;;;v;;r;;d1,93;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;35;2;38;34;;;v;;r;;d1,36;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\CourseSet.php" crc="1049980961">
+			<phptree>
+				<treenode node="CourseSet;Php:Class Name;0;19;1;110;34;;;vCActiveRecord;;c;;r;;d0,20;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;76;2;86;34;;;v;;r;;d1,77;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;26;2;29;34;;;v;;r;;d1,27;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;61;2;71;34;;;v;;r;;d1,62;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;42;2;56;34;;;v;;r;;d1,43;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;92;2;109;34;;;v;;r;;d1,93;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;34;2;37;34;;;v;;r;;d1,35;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\CoursePlan.php" crc="-34762438">
+			<phptree>
+				<treenode node="CoursePlan;Php:Class Name;0;21;1;113;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;77;2;88;34;;;v;;r;;d1,78;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;61;2;72;34;;;v;;r;;d1,62;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;56;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;94;2;112;34;;;v;;r;;d1,95;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\CourseAvailability.php" crc="-1125220091">
+			<phptree>
+				<treenode node="CourseAvailability;Php:Class Name;0;15;1;98;34;;;vCActiveRecord;;c;;r;;d0,16;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;68;2;76;34;;;v;;r;;d1,69;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;22;2;25;34;;;v;;r;;d1,23;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;55;2;63;34;;;v;;r;;d1,56;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;38;2;50;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;82;2;97;34;;;v;;r;;d1,83;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;30;2;33;34;;;v;;r;;d1,31;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\Course.php" crc="241886143">
+			<phptree>
+				<treenode node="Course;Php:Class Name;0;25;1;124;34;;;vCActiveRecord;;c;;r;;d0,26;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;86;2;98;34;;;v;;r;;d1,87;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;32;2;35;34;;;v;;r;;d1,33;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;67;2;81;34;;;v;;r;;d1,68;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;48;2;62;34;;;v;;r;;d1,49;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;104;2;123;34;;;v;;r;;d1,105;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;40;2;43;34;;;v;;r;;d1,41;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\ContactForm.php" crc="-707791143">
+			<phptree>
+				<treenode node="ContactForm;Php:Class Name;0;7;1;41;34;;;vCFormModel;;c;;r;;d0,8;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;35;2;40;34;;;v;;r;;d1,36;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;18;2;28;34;;;v;;r;;d1,19;;b1,0;;m">
+					</treenode>
+					<treenode node="body;Php:Var Name;8;12;13;12;34;;;v;;r;;d-1,-1;;b1,0;;m">
+					</treenode>
+					<treenode node="email;Php:Var Name;8;10;14;10;34;;;v;;r;;d-1,-1;;b1,0;;m">
+					</treenode>
+					<treenode node="name;Php:Var Name;8;9;13;9;34;;;v;;r;;d-1,-1;;b1,0;;m">
+					</treenode>
+					<treenode node="subject;Php:Var Name;8;11;16;11;34;;;v;;r;;d-1,-1;;b1,0;;m">
+					</treenode>
+					<treenode node="verifyCode;Php:Var Name;8;13;19;13;34;;;v;;r;;d-1,-1;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\ConsumedMaterial.php" crc="-660222761">
+			<phptree>
+				<treenode node="ConsumedMaterial;Php:Class Name;0;19;1;110;34;;;vCActiveRecord;;c;;r;;d0,20;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;74;2;85;34;;;v;;r;;d1,75;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;26;2;29;34;;;v;;r;;d1,27;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;60;2;69;34;;;v;;r;;d1,61;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;42;2;55;34;;;v;;r;;d1,43;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;91;2;109;34;;;v;;r;;d1,92;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;34;2;37;34;;;v;;r;;d1,35;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\AssessmentUnitValue.php" crc="-1501886959">
+			<phptree>
+				<treenode node="AssessmentUnitValue;Php:Class Name;0;20;1;112;34;;;vCActiveRecord;;c;;r;;d0,21;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;76;2;87;34;;;v;;r;;d1,77;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;27;2;30;34;;;v;;r;;d1,28;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;61;2;71;34;;;v;;r;;d1,62;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;43;2;56;34;;;v;;r;;d1,44;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;93;2;111;34;;;v;;r;;d1,94;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;35;2;38;34;;;v;;r;;d1,36;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\AssessmentUnitAssociation.php" crc="-34119037">
+			<phptree>
+				<treenode node="AssessmentUnitAssociation;Php:Class Name;0;15;1;98;34;;;vCActiveRecord;;c;;r;;d0,16;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;68;2;76;34;;;v;;r;;d1,69;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;22;2;25;34;;;v;;r;;d1,23;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;55;2;63;34;;;v;;r;;d1,56;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;38;2;50;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;82;2;97;34;;;v;;r;;d1,83;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;30;2;33;34;;;v;;r;;d1,31;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\AssessmentUnit.php" crc="1267883158">
+			<phptree>
+				<treenode node="AssessmentUnit;Php:Class Name;0;25;1;122;34;;;vCActiveRecord;;c;;r;;d0,26;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;86;2;97;34;;;v;;r;;d1,87;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;32;2;35;34;;;v;;r;;d1,33;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;66;2;81;34;;;v;;r;;d1,67;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;48;2;61;34;;;v;;r;;d1,49;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;103;2;121;34;;;v;;r;;d1,104;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;40;2;43;34;;;v;;r;;d1,41;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\AssessmentSetValue.php" crc="26538219">
+			<phptree>
+				<treenode node="AssessmentSetValue;Php:Class Name;0;21;1;115;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;77;2;89;34;;;v;;r;;d1,78;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;62;2;72;34;;;v;;r;;d1,63;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;57;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;95;2;114;34;;;v;;r;;d1,96;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\AssessmentSetRule.php" crc="-2142886386">
+			<phptree>
+				<treenode node="AssessmentSetRule;Php:Class Name;0;20;1;113;34;;;vCActiveRecord;;c;;r;;d0,21;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;75;2;87;34;;;v;;r;;d1,76;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;27;2;30;34;;;v;;r;;d1,28;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;61;2;70;34;;;v;;r;;d1,62;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;43;2;56;34;;;v;;r;;d1,44;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;93;2;112;34;;;v;;r;;d1,94;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;35;2;38;34;;;v;;r;;d1,36;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\AssessmentSetConversion.php" crc="-687193762">
+			<phptree>
+				<treenode node="AssessmentSetConversion;Php:Class Name;0;21;1;113;34;;;vCActiveRecord;;c;;r;;d0,22;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;77;2;88;34;;;v;;r;;d1,78;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;28;2;31;34;;;v;;r;;d1,29;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;61;2;72;34;;;v;;r;;d1,62;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;44;2;56;34;;;v;;r;;d1,45;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;94;2;112;34;;;v;;r;;d1,95;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;36;2;39;34;;;v;;r;;d1,37;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\AssessmentSetAssociation.php" crc="254592316">
+			<phptree>
+				<treenode node="AssessmentSetAssociation;Php:Class Name;0;15;1;98;34;;;vCActiveRecord;;c;;r;;d0,16;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;68;2;76;34;;;v;;r;;d1,69;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;22;2;25;34;;;v;;r;;d1,23;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;55;2;63;34;;;v;;r;;d1,56;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;38;2;50;34;;;v;;r;;d1,39;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;82;2;97;34;;;v;;r;;d1,83;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;30;2;33;34;;;v;;r;;d1,31;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\AssessmentSet.php" crc="-913650353">
+			<phptree>
+				<treenode node="AssessmentSet;Php:Class Name;0;25;1;121;34;;;vCActiveRecord;;c;;r;;d0,26;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;87;2;97;34;;;v;;r;;d1,88;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;32;2;35;34;;;v;;r;;d1,33;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;66;2;82;34;;;v;;r;;d1,67;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;48;2;61;34;;;v;;r;;d1,49;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;103;2;120;34;;;v;;r;;d1,104;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;40;2;43;34;;;v;;r;;d1,41;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\AdditionalProperty.php" crc="1430560182">
+			<phptree>
+				<treenode node="AdditionalProperty;Php:Class Name;0;28;1;135;34;;;vCActiveRecord;;c;;r;;d0,29;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;87;2;104;34;;;v;;r;;d1,88;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;35;2;38;34;;;v;;r;;d1,36;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;70;2;82;34;;;v;;r;;d1,71;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;51;2;65;34;;;v;;r;;d1,52;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;110;2;134;34;;;v;;r;;d1,111;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;43;2;46;34;;;v;;r;;d1,44;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\models\AbsenceFactor.php" crc="309502715">
+			<phptree>
+				<treenode node="AbsenceFactor;Php:Class Name;0;22;1;116;34;;;vCActiveRecord;;c;;r;;d0,23;;b0,0;;m">
+					<treenode node="attributeLabels;Php:Function Name;8;78;2;90;34;;;v;;r;;d1,79;;b1,0;;m">
+					</treenode>
+					<treenode node="model;Php:Function Name;15;29;2;32;34;;;v;;r;;d1,30;;b1,5;;mclassName;;p">
+					</treenode>
+					<treenode node="relations;Php:Function Name;8;62;2;73;34;;;v;;r;;d1,63;;b1,0;;m">
+					</treenode>
+					<treenode node="rules;Php:Function Name;8;45;2;57;34;;;v;;r;;d1,46;;b1,0;;m">
+					</treenode>
+					<treenode node="search;Php:Function Name;8;96;2;115;34;;;v;;r;;d1,97;;b1,0;;m">
+					</treenode>
+					<treenode node="tableName;Php:Function Name;8;37;2;40;34;;;v;;r;;d1,38;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\extensions\CJuiDateTimePicker\assets\jquery-ui-timepicker-addon.js" crc="-746738004">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\extensions\CJuiDateTimePicker\CJuiDateTimePicker.php" crc="-2005658894">
+			<phptree>
+				<treenode node="CJuiDateTimePicker;Php:Class Name;0;8;1;61;34;;;vCJuiDatePicker;;c;;r;;d0,9;;b0,0;;m">
+					<treenode node="init;Php:Function Name;8;14;2;21;34;;;v;;r;;d1,15;;b1,0;;m">
+					</treenode>
+					<treenode node="run;Php:Function Name;8;23;2;60;34;;;v;;r;;d1,24;;b1,0;;m">
+					</treenode>
+					<treenode node="mode;Php:Var Name;8;12;13;12;34;;;v;;r;;d-1,-1;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\data\schema.sqlite.sql" crc="-1069431656">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\data\schema.mysql.sql" crc="-956034956">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\controllers\SiteController.php" crc="140608222">
+			<phptree>
+				<treenode node="SiteController;Php:Class Name;0;2;1;108;34;;;vController;;c;;r;;d0,3;;b0,0;;m">
+					<treenode node="actionContact;Php:Function Name;8;51;2;72;34;;;v;;r;;d1,52;;b1,0;;m">
+					</treenode>
+					<treenode node="actionError;Php:Function Name;8;37;2;46;34;;;v;;r;;d1,38;;b1,0;;m">
+					</treenode>
+					<treenode node="actionIndex;Php:Function Name;8;27;2;32;34;;;v;;r;;d1,28;;b1,0;;m">
+					</treenode>
+					<treenode node="actionLogin;Php:Function Name;8;77;2;98;34;;;v;;r;;d1,78;;b1,0;;m">
+					</treenode>
+					<treenode node="actionLogout;Php:Function Name;8;103;2;107;34;;;v;;r;;d1,104;;b1,0;;m">
+					</treenode>
+					<treenode node="actions;Php:Function Name;8;7;2;21;34;;;v;;r;;d1,8;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\controllers\PersonController.php" crc="-160729608">
+			<phptree>
+				<treenode node="PersonController;Php:Class Name;0;2;1;188;34;;;vController;;c;;r;;d0,3;;b0,0;;m">
+					<treenode node="accessRules;Php:Function Name;8;26;2;45;34;;;varray;;r Specifies the access control rules. This method is used by the 'accessControl' filter. @return access control rules;;d1,27;;b1,0;;m">
+					</treenode>
+					<treenode node="actionAdmin;Php:Function Name;8;149;2;159;34;;;v;;r;;d1,150;;b1,0;;m">
+					</treenode>
+					<treenode node="actionCreate;Php:Function Name;8;62;2;82;34;;;v;;r;;d1,63;;b1,0;;m">
+					</treenode>
+					<treenode node="actionDelete;Php:Function Name;8;126;2;133;34;;;v;;r Deletes a particular model. If deletion is successful, the browser will be redirected to the 'admin' page. @param the ID of the model to be deleted;;d1,127;;b1,0;;minteger $id;;p">
+					</treenode>
+					<treenode node="actionIndex;Php:Function Name;8;138;2;144;34;;;v;;r;;d1,139;;b1,0;;m">
+					</treenode>
+					<treenode node="actionUpdate;Php:Function Name;8;89;2;119;34;;;v;;r Updates a particular model. If update is successful, the browser will be redirected to the 'view' page. @param the ID of the model to be updated;;d1,90;;b1,0;;minteger $id;;p">
+					</treenode>
+					<treenode node="actionView;Php:Function Name;8;51;2;56;34;;;v;;r Displays a particular model. @param the ID of the model to be displayed;;d1,52;;b1,0;;minteger $id;;p">
+					</treenode>
+					<treenode node="filters;Php:Function Name;8;13;2;19;34;;;varray;;r @return action filters;;d1,14;;b1,0;;m">
+					</treenode>
+					<treenode node="loadModel;Php:Function Name;8;168;2;174;34;;;vPerson;;r Returns the data model based on the primary key given in the GET variable. If the data model is not found, an HTTP exception will be raised. @param the ID of the model to be loaded @return the loaded model @throws CHttpException;;d1,169;;b1,0;;minteger $id;;p">
+					</treenode>
+					<treenode node="performAjaxValidation;Php:Function Name;11;180;2;187;34;;;v;;r Performs the AJAX validation. @param the model to be validated;;d1,181;;b2,0;;mPerson $model;;p">
+					</treenode>
+					<treenode node="layout;Php:Var Name;8;8;15;8;34;string;;v;;r;;d-1,-1;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\config\test.php" crc="1736334867">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\config\main.php" crc="842819108">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\config\console.php" crc="-382050585">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\components\UserIdentity.php" crc="1373739312">
+			<phptree>
+				<treenode node="UserIdentity;Php:Class Name;0;7;1;32;34;;;vCUserIdentity;;c;;r;;d0,8;;b0,0;;m">
+					<treenode node="authenticate;Php:Function Name;8;17;2;31;34;;;v;;r;;d1,18;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\components\Controller.php" crc="-272917689">
+			<phptree>
+				<treenode node="Controller;Php:Class Name;0;5;1;22;34;;;vCController;;c;;r;;d0,6;;b0,0;;m">
+					<treenode node="breadcrumbs;Php:Var Name;8;21;20;21;34;;;v;;r;;d-1,-1;;b1,0;;m">
+					</treenode>
+					<treenode node="layout;Php:Var Name;8;11;15;11;34;;;v;;r;;d-1,-1;;b1,0;;m">
+					</treenode>
+					<treenode node="menu;Php:Var Name;8;15;13;15;34;;;v;;r;;d-1,-1;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\yiic.php" crc="586701250">
+			<phptree>
+				<treenode node="config;Php:Var Name;0;4;7;4;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="yiic;Php:Var Name;0;3;5;3;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\protected\.htaccess" crc="-79980978">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\d559407f\listview\jquery.yiilistview.js" crc="616437904">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\d559407f\gridview\jquery.yiigridview.js" crc="-1784945717">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\a78755ee\jquery-ui-timepicker-addon.js" crc="-746738004">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jui\js\jquery-ui.min.js" crc="-1195226229">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jui\js\jquery-ui-i18n.min.js" crc="-1156623870">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\punycode.min.js" crc="211245919">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\punycode.js" crc="-709147638">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.yiitab.js" crc="1796694605">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.yiiactiveform.js" crc="1364093825">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.yii.js" crc="1325528138">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.treeview.js" crc="-636460687">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.treeview.edit.js" crc="-1216616358">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.treeview.async.js" crc="1213026938">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.rating.js" crc="929892114">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.multifile.js" crc="-2081414734">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.min.js" crc="259060873">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.metadata.js" crc="-1357617581">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.maskedinput.min.js" crc="196106460">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.maskedinput.js" crc="309321716">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.js" crc="735806715">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.history.js" crc="1987543054">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.cookie.js" crc="-2027144560">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.bgiframe.js" crc="1305236470">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.ba-bbq.min.js" crc="1987779189">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.ba-bbq.js" crc="-1464250190">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.autocomplete.js" crc="-505151846">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\72e77a53\jquery.ajaxqueue.js" crc="1035182378">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\4d3978b0\js\fancybox\jquery.fancybox-1.3.1.pack.js" crc="1691307318">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\4d3978b0\js\main.js" crc="2057320134">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\assets\4d3978b0\js\jquery.tooltip-1.2.6.min.js" crc="-1125981949">
+		</csfile><csfile name="C:\xampp\htdocs\xuar\index.php" crc="985734672">
+			<phptree>
+				<treenode node="config;Php:Var Name;0;4;7;4;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="yii;Php:Var Name;0;3;4;3;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\index-test.php" crc="-173215158">
+			<phptree>
+				<treenode node="config;Php:Var Name;0;8;7;8;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="yii;Php:Var Name;0;7;4;7;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\xampp\htdocs\xuar\.htaccess" crc="-1121276285">
+		</csfile></codestructure></project>
